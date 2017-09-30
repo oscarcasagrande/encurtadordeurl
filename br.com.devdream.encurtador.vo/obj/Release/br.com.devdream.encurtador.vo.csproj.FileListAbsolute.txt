@@ -1,0 +1,10 @@
+C:\Projetos\Encurtador URL\br.com.devdream.encurtador\br.com.devdream.encurtador.vo\bin\Release\br.com.devdream.encurtador.vo.dll
+C:\Projetos\Encurtador URL\br.com.devdream.encurtador\br.com.devdream.encurtador.vo\bin\Release\br.com.devdream.encurtador.vo.pdb
+C:\Projetos\Encurtador URL\br.com.devdream.encurtador\br.com.devdream.encurtador.vo\obj\Release\ResolveAssemblyReference.cache
+C:\Projetos\Encurtador URL\br.com.devdream.encurtador\br.com.devdream.encurtador.vo\obj\Release\br.com.devdream.encurtador.vo.dll
+C:\Projetos\Encurtador URL\br.com.devdream.encurtador\br.com.devdream.encurtador.vo\obj\Release\br.com.devdream.encurtador.vo.pdb
+D:\Dropbox\Projetos\Encurtador URL\br.com.devdream.encurtador\br.com.devdream.encurtador.vo\bin\Release\br.com.devdream.encurtador.vo.dll
+D:\Dropbox\Projetos\Encurtador URL\br.com.devdream.encurtador\br.com.devdream.encurtador.vo\bin\Release\br.com.devdream.encurtador.vo.pdb
+D:\Dropbox\Projetos\Encurtador URL\br.com.devdream.encurtador\br.com.devdream.encurtador.vo\obj\Release\ResolveAssemblyReference.cache
+D:\Dropbox\Projetos\Encurtador URL\br.com.devdream.encurtador\br.com.devdream.encurtador.vo\obj\Release\br.com.devdream.encurtador.vo.dll
+D:\Dropbox\Projetos\Encurtador URL\br.com.devdream.encurtador\br.com.devdream.encurtador.vo\obj\Release\br.com.devdream.encurtador.vo.pdb

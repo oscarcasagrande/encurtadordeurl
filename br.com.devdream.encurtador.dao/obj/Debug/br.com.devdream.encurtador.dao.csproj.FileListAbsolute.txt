@@ -1,0 +1,26 @@
+C:\Projetos\Encurtador URL\br.com.devdream.encurtador\br.com.devdream.encurtador.dao\bin\Debug\br.com.devdream.encurtador.dao.dll
+C:\Projetos\Encurtador URL\br.com.devdream.encurtador\br.com.devdream.encurtador.dao\bin\Debug\br.com.devdream.encurtador.dao.pdb
+C:\Projetos\Encurtador URL\br.com.devdream.encurtador\br.com.devdream.encurtador.dao\bin\Debug\br.com.devdream.encurtador.vo.dll
+C:\Projetos\Encurtador URL\br.com.devdream.encurtador\br.com.devdream.encurtador.dao\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Projetos\Encurtador URL\br.com.devdream.encurtador\br.com.devdream.encurtador.dao\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Projetos\Encurtador URL\br.com.devdream.encurtador\br.com.devdream.encurtador.dao\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Projetos\Encurtador URL\br.com.devdream.encurtador\br.com.devdream.encurtador.dao\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Projetos\Encurtador URL\br.com.devdream.encurtador\br.com.devdream.encurtador.dao\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Projetos\Encurtador URL\br.com.devdream.encurtador\br.com.devdream.encurtador.dao\bin\Debug\br.com.devdream.encurtador.vo.pdb
+C:\Projetos\Encurtador URL\br.com.devdream.encurtador\br.com.devdream.encurtador.dao\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Projetos\Encurtador URL\br.com.devdream.encurtador\br.com.devdream.encurtador.dao\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Projetos\Encurtador URL\br.com.devdream.encurtador\br.com.devdream.encurtador.dao\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Projetos\Encurtador URL\br.com.devdream.encurtador\br.com.devdream.encurtador.dao\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Projetos\Encurtador URL\br.com.devdream.encurtador\br.com.devdream.encurtador.dao\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+C:\Projetos\Encurtador URL\br.com.devdream.encurtador\br.com.devdream.encurtador.dao\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Encurtador URL\br.com.devdream.encurtador\br.com.devdream.encurtador.dao\obj\Debug\br.com.devdream.encurtador.dao.dll
+C:\Projetos\Encurtador URL\br.com.devdream.encurtador\br.com.devdream.encurtador.dao\obj\Debug\br.com.devdream.encurtador.dao.pdb
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.encurtador.dao\obj\Debug\br.com.devdream.encurtador.dao.csprojResolveAssemblyReference.cache
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.encurtador.dao\bin\Debug\br.com.devdream.encurtador.dao.dll
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.encurtador.dao\bin\Debug\br.com.devdream.encurtador.dao.pdb
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.encurtador.dao\bin\Debug\br.com.devdream.encurtador.vo.dll
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.encurtador.dao\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.encurtador.dao\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.encurtador.dao\bin\Debug\br.com.devdream.encurtador.vo.pdb
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.encurtador.dao\obj\Debug\br.com.devdream.encurtador.dao.dll
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.encurtador.dao\obj\Debug\br.com.devdream.encurtador.dao.pdb

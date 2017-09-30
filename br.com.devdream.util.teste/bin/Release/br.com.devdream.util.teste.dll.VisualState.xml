@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1003]C:\Projetos\Encurtador URL\br.com.devdream.encurtador\br.com.devdream.util.teste\bin\Release\br.com.devdream.util.teste.dll</TopNode>
+  <SelectedNode>[0-1003]C:\Projetos\Encurtador URL\br.com.devdream.encurtador\br.com.devdream.util.teste\bin\Release\br.com.devdream.util.teste.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1003]C:\Projetos\Encurtador URL\br.com.devdream.encurtador\br.com.devdream.util.teste\bin\Release\br.com.devdream.util.teste.dll" Expanded="true" />
+    <Node UniqueName="[0-1004]br" Expanded="true" />
+    <Node UniqueName="[0-1005]br.com" Expanded="true" />
+    <Node UniqueName="[0-1006]br.com.devdream" Expanded="true" />
+    <Node UniqueName="[0-1007]br.com.devdream.util" Expanded="true" />
+    <Node UniqueName="[0-1008]br.com.devdream.util.teste" Expanded="true" />
+    <Node UniqueName="[0-1000]br.com.devdream.util.teste.ExtensaoString" Expanded="true" />
+  </Nodes>
+</VisualState>

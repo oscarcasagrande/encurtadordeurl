@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="true">
+  <TopNode>[0-1013]D:\Dropbox\Projetos\Encurtador URL\br.com.devdream.encurtador\br.com.devdream.encurtador.bo.teste\bin\Release\br.com.devdream.encurtador.bo.teste.dll</TopNode>
+  <SelectedNode>[0-1012]br.com.devdream.encurtador.bo.teste.Url.Obter</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1013]D:\Dropbox\Projetos\Encurtador URL\br.com.devdream.encurtador\br.com.devdream.encurtador.bo.teste\bin\Release\br.com.devdream.encurtador.bo.teste.dll" Expanded="true" Checked="true" />
+    <Node UniqueName="[0-1014]br" Expanded="true" Checked="true" />
+    <Node UniqueName="[0-1015]br.com" Expanded="true" Checked="true" />
+    <Node UniqueName="[0-1016]br.com.devdream" Expanded="true" Checked="true" />
+    <Node UniqueName="[0-1017]br.com.devdream.encurtador" Expanded="true" Checked="true" />
+    <Node UniqueName="[0-1018]br.com.devdream.encurtador.bo" Expanded="true" Checked="true" />
+    <Node UniqueName="[0-1019]br.com.devdream.encurtador.bo.teste" Expanded="true" />
+    <Node UniqueName="[0-1000]br.com.devdream.encurtador.bo.teste.AcessoTeste" Expanded="true" />
+    <Node UniqueName="[0-1001]br.com.devdream.encurtador.bo.teste.AcessoTeste.ConsolidarAcessoMensal" Checked="true" />
+    <Node UniqueName="[0-1002]br.com.devdream.encurtador.bo.teste.AcessoTeste.ConsolidarAcessoTotal" Checked="true" />
+    <Node UniqueName="[0-1003]br.com.devdream.encurtador.bo.teste.Url" Expanded="true" />
+    <Node UniqueName="[0-1004]br.com.devdream.encurtador.bo.teste.Url.Criar" Checked="true" />
+    <Node UniqueName="[0-1011]br.com.devdream.encurtador.bo.teste.Url.Existe" Checked="true" />
+    <Node UniqueName="[0-1012]br.com.devdream.encurtador.bo.teste.Url.Obter" Checked="true" />
+    <Node UniqueName="[0-1008]br.com.devdream.encurtador.bo.teste.Url.ObterCaractereEleitoDois" Checked="true" />
+    <Node UniqueName="[0-1010]br.com.devdream.encurtador.bo.teste.Url.ObterCaractereEleitoQuatro" Checked="true" />
+    <Node UniqueName="[0-1009]br.com.devdream.encurtador.bo.teste.Url.ObterCaractereEleitoTres" Checked="true" />
+    <Node UniqueName="[0-1007]br.com.devdream.encurtador.bo.teste.Url.ObterCaractereEleitoUm" Checked="true" />
+    <Node UniqueName="[0-1005]br.com.devdream.encurtador.bo.teste.Url.ValidarEnderecoCorreto" Checked="true" />
+    <Node UniqueName="[0-1006]br.com.devdream.encurtador.bo.teste.Url.ValidarEnderecoErrado" Checked="true" />
+  </Nodes>
+</VisualState>

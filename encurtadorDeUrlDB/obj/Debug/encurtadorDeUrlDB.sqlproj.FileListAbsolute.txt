@@ -1,0 +1,5 @@
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\encurtadorDeUrlDB\bin\Debug\encurtadorDeUrlDB.dacpac
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\encurtadorDeUrlDB\bin\Debug\encurtadorDeUrlDB.dll
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\encurtadorDeUrlDB\bin\Debug\encurtadorDeUrlDB.pdb
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\encurtadorDeUrlDB\obj\Debug\encurtadorDeUrlDB.dll
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\encurtadorDeUrlDB\obj\Debug\encurtadorDeUrlDB.pdb

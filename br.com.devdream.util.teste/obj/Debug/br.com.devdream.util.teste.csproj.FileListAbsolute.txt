@@ -1,0 +1,9 @@
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.util.teste\obj\Debug\br.com.devdream.util.teste.csprojResolveAssemblyReference.cache
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.util.teste\bin\Debug\br.com.devdream.util.teste.dll
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.util.teste\bin\Debug\br.com.devdream.util.teste.pdb
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.util.teste\bin\Debug\br.com.devdream.util.dll
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.util.teste\bin\Debug\nunit.framework.dll
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.util.teste\bin\Debug\br.com.devdream.util.pdb
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.util.teste\bin\Debug\nunit.framework.xml
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.util.teste\obj\Debug\br.com.devdream.util.teste.dll
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.util.teste\obj\Debug\br.com.devdream.util.teste.pdb

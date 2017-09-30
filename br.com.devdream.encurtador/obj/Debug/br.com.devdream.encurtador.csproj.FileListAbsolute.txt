@@ -1,0 +1,12 @@
+C:\Projetos\Encurtador URL\br.com.devdream.encurtador\br.com.devdream.encurtador\bin\Debug\br.com.devdream.encurtador.dll
+C:\Projetos\Encurtador URL\br.com.devdream.encurtador\br.com.devdream.encurtador\bin\Debug\br.com.devdream.encurtador.pdb
+C:\Projetos\Encurtador URL\br.com.devdream.encurtador\br.com.devdream.encurtador\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Encurtador URL\br.com.devdream.encurtador\br.com.devdream.encurtador\obj\Debug\br.com.devdream.encurtador.dll
+C:\Projetos\Encurtador URL\br.com.devdream.encurtador\br.com.devdream.encurtador\obj\Debug\br.com.devdream.encurtador.pdb
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.encurtador\bin\Debug\br.com.devdream.encurtador.dll
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.encurtador\bin\Debug\br.com.devdream.encurtador.pdb
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.encurtador\obj\Debug\br.com.devdream.encurtador.csprojResolveAssemblyReference.cache
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.encurtador\obj\Debug\br.com.devdream.encurtador.dll
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.encurtador\obj\Debug\br.com.devdream.encurtador.pdb
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.encurtador\bin\Debug\nunit.framework.dll
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.encurtador\bin\Debug\nunit.framework.xml

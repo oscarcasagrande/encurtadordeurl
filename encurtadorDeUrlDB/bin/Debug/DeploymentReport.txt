@@ -1,0 +1,27 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[acesso] (Table)
+       [dbo].[acessoConsolidadoMensal] (Table)
+       [dbo].[acessoConsolidadoTotal] (Table)
+       [dbo].[url] (Table)
+       [dbo].[DF_acesso_dataCriacao] (Default Constraint)
+       [dbo].[DF_url_dataCriacao] (Default Constraint)
+       [dbo].[procAcesso_criar] (Procedure)
+       [dbo].[procAcessoConsolidadoMensal_Criar] (Procedure)
+       [dbo].[procAcessoConsolidadoTotal_Criar] (Procedure)
+       [dbo].[procUrl_criar] (Procedure)
+       [dbo].[procUrl_ler] (Procedure)
+       [dbo].[procUrlEndereco_Ler] (Procedure)
+       [dbo].[procUrlUltima_ler] (Procedure)
+
+** Supporting actions

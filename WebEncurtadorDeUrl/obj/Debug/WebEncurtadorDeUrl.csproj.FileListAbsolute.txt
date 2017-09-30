@@ -1,0 +1,16 @@
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\WebEncurtadorDeUrl\bin\WebEncurtadorDeUrl.dll.config
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\WebEncurtadorDeUrl\bin\WebEncurtadorDeUrl.dll
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\WebEncurtadorDeUrl\bin\WebEncurtadorDeUrl.pdb
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\WebEncurtadorDeUrl\bin\br.com.devdream.encurtador.bo.dll
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\WebEncurtadorDeUrl\bin\br.com.devdream.encurtador.vo.dll
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\WebEncurtadorDeUrl\bin\br.com.devdream.encurtador.dao.dll
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\WebEncurtadorDeUrl\bin\br.com.devdream.util.dll
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\WebEncurtadorDeUrl\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\WebEncurtadorDeUrl\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\WebEncurtadorDeUrl\bin\br.com.devdream.encurtador.bo.pdb
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\WebEncurtadorDeUrl\bin\br.com.devdream.encurtador.vo.pdb
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\WebEncurtadorDeUrl\bin\br.com.devdream.encurtador.dao.pdb
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\WebEncurtadorDeUrl\bin\br.com.devdream.util.pdb
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\WebEncurtadorDeUrl\obj\Debug\WebEncurtadorDeUrl.csprojResolveAssemblyReference.cache
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\WebEncurtadorDeUrl\obj\Debug\WebEncurtadorDeUrl.dll
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\WebEncurtadorDeUrl\obj\Debug\WebEncurtadorDeUrl.pdb
