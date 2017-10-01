@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Services;
 
-namespace WebEncurtadorDeUrl
+namespace WebEncurtadorDeUrl.Adm
 {
     /// <summary>
     /// Summary description for Api

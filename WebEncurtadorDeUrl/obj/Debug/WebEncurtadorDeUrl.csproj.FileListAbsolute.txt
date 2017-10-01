@@ -1,3 +1,4 @@
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\WebEncurtadorDeUrl\obj\Debug\WebEncurtadorDeUrl.csprojResolveAssemblyReference.cache
 C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\WebEncurtadorDeUrl\bin\WebEncurtadorDeUrl.dll.config
 C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\WebEncurtadorDeUrl\bin\WebEncurtadorDeUrl.dll
 C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\WebEncurtadorDeUrl\bin\WebEncurtadorDeUrl.pdb
@@ -11,6 +12,18 @@ C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\WebEncurtadorDeUrl\bin\
 C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\WebEncurtadorDeUrl\bin\br.com.devdream.encurtador.vo.pdb
 C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\WebEncurtadorDeUrl\bin\br.com.devdream.encurtador.dao.pdb
 C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\WebEncurtadorDeUrl\bin\br.com.devdream.util.pdb
-C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\WebEncurtadorDeUrl\obj\Debug\WebEncurtadorDeUrl.csprojResolveAssemblyReference.cache
 C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\WebEncurtadorDeUrl\obj\Debug\WebEncurtadorDeUrl.dll
 C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\WebEncurtadorDeUrl\obj\Debug\WebEncurtadorDeUrl.pdb
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\WebEncurtadorDeUrl\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\WebEncurtadorDeUrl\bin\Microsoft.Practices.Unity.dll
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\WebEncurtadorDeUrl\bin\Microsoft.Practices.Unity.Interception.dll
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\WebEncurtadorDeUrl\bin\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\WebEncurtadorDeUrl\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\WebEncurtadorDeUrl\bin\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\WebEncurtadorDeUrl\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\WebEncurtadorDeUrl\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\WebEncurtadorDeUrl\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\WebEncurtadorDeUrl\bin\Microsoft.Practices.Unity.pdb
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\WebEncurtadorDeUrl\bin\Microsoft.Practices.Unity.xml
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\WebEncurtadorDeUrl\bin\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\WebEncurtadorDeUrl\bin\Microsoft.Practices.Unity.Interception.xml

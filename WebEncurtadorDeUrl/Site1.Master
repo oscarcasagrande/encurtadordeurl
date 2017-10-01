@@ -1,15 +1,13 @@
-﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Site.Site1" %>
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="WebEncurtadorDeUrl.Site1" %>
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html>
 <head runat="server">
-    <title>Desconto Centauro</title>
+    <title>DevDream Encurtador de URL</title>
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
 </head>
 <body>
-    <h1>
-        Desconto Centauro</h1>
+    <h1>DevDream - Encurtador de URL</h1>
     <ul>
         <li>
             <asp:HyperLink runat="server" NavigateUrl="~/Adm/Criar.aspx">Criar</asp:HyperLink></li>
@@ -20,10 +18,10 @@
     </ul>
     <br />
     <form id="form1" runat="server">
-    <div>
-        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
-        </asp:ContentPlaceHolder>
-    </div>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
     </form>
 </body>
 </html>

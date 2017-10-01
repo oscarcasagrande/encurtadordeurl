@@ -5,6 +5,5 @@ C:\Projetos\Encurtador URL\br.com.devdream.encurtador\br.com.devdream.util\obj\D
 C:\Projetos\Encurtador URL\br.com.devdream.encurtador\br.com.devdream.util\obj\Debug\br.com.devdream.util.pdb
 C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.util\bin\Debug\br.com.devdream.util.dll
 C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.util\bin\Debug\br.com.devdream.util.pdb
-C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.util\obj\Debug\br.com.devdream.util.csprojResolveAssemblyReference.cache
 C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.util\obj\Debug\br.com.devdream.util.dll
 C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.util\obj\Debug\br.com.devdream.util.pdb

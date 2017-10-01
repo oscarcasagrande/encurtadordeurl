@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Site {
+namespace WebEncurtadorDeUrl {
     
     
     public partial class Criar {

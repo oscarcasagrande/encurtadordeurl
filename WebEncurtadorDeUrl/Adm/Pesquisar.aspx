@@ -1,5 +1,5 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true"
-    CodeBehind="Pesquisar.aspx.cs" Inherits="Site.Pesquisar" %>
+    CodeBehind="Pesquisar.aspx.cs" Inherits="WebEncurtadorDeUrl.Pesquisar" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>

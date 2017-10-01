@@ -15,7 +15,7 @@ namespace WebEncurtadorDeUrl
 
             if (dominio.ToLower().Contains("localhost"))
             {
-                dominio = "http://www.centauro.com.br";
+                dominio = "http://www.devdream.com.br";
             }
 
             if (Request.QueryString != null && Request.QueryString.Count > 0)
@@ -79,7 +79,7 @@ namespace WebEncurtadorDeUrl
             }
             else
             {
-                Response.Redirect(dominio);
+                Response.Redirect("~/Adm/Criar.aspx");
             }
         }
     }

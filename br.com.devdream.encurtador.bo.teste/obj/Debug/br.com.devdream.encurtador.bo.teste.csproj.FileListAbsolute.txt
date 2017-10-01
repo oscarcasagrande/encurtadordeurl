@@ -16,3 +16,13 @@ C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.encurta
 C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.encurtador.bo.teste\obj\Debug\br.com.devdream.encurtador.bo.teste.csprojResolveAssemblyReference.cache
 C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.encurtador.bo.teste\obj\Debug\br.com.devdream.encurtador.bo.teste.dll
 C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.encurtador.bo.teste\obj\Debug\br.com.devdream.encurtador.bo.teste.pdb
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.encurtador.bo.teste\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.encurtador.bo.teste\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.encurtador.bo.teste\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.encurtador.bo.teste\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.encurtador.bo.teste\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.encurtador.bo.teste\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.encurtador.bo.teste\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.encurtador.bo.teste\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.encurtador.bo.teste\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.encurtador.bo.teste\bin\Debug\Microsoft.Practices.Unity.Interception.pdb

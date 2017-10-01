@@ -5,6 +5,5 @@ C:\Projetos\Encurtador URL\br.com.devdream.encurtador\br.com.devdream.encurtador
 C:\Projetos\Encurtador URL\br.com.devdream.encurtador\br.com.devdream.encurtador.vo\obj\Debug\br.com.devdream.encurtador.vo.pdb
 C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.encurtador.vo\bin\Debug\br.com.devdream.encurtador.vo.dll
 C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.encurtador.vo\bin\Debug\br.com.devdream.encurtador.vo.pdb
-C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.encurtador.vo\obj\Debug\br.com.devdream.encurtador.vo.csprojResolveAssemblyReference.cache
 C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.encurtador.vo\obj\Debug\br.com.devdream.encurtador.vo.dll
 C:\Users\oscar.l.casagrande\Source\Repos\encurtadordeurl\br.com.devdream.encurtador.vo\obj\Debug\br.com.devdream.encurtador.vo.pdb
