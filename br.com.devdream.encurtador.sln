@@ -21,6 +21,22 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebEncurtadorDeUrl", "WebEn
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "encurtadorDeUrlDB", "encurtadorDeUrlDB\encurtadorDeUrlDB.sqlproj", "{A8E2A25A-D56D-4B8D-B0A1-20A9F0E8D785}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "packages", "packages", "{99A06CF8-833C-4667-95A2-C203F9B5E897}"
+	ProjectSection(SolutionItems) = preProject
+		packages\Microsoft.Practices.EnterpriseLibrary\Microsoft.Practices.EnterpriseLibrary.Common.dll = packages\Microsoft.Practices.EnterpriseLibrary\Microsoft.Practices.EnterpriseLibrary.Common.dll
+		packages\Microsoft.Practices.EnterpriseLibrary\Microsoft.Practices.EnterpriseLibrary.Common.pdb = packages\Microsoft.Practices.EnterpriseLibrary\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+		packages\Microsoft.Practices.EnterpriseLibrary\Microsoft.Practices.EnterpriseLibrary.Common.xml = packages\Microsoft.Practices.EnterpriseLibrary\Microsoft.Practices.EnterpriseLibrary.Common.xml
+		packages\Microsoft.Practices.EnterpriseLibrary\Microsoft.Practices.EnterpriseLibrary.Data.dll = packages\Microsoft.Practices.EnterpriseLibrary\Microsoft.Practices.EnterpriseLibrary.Data.dll
+		packages\Microsoft.Practices.EnterpriseLibrary\Microsoft.Practices.EnterpriseLibrary.Data.pdb = packages\Microsoft.Practices.EnterpriseLibrary\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+		packages\Microsoft.Practices.EnterpriseLibrary\Microsoft.Practices.EnterpriseLibrary.Data.xml = packages\Microsoft.Practices.EnterpriseLibrary\Microsoft.Practices.EnterpriseLibrary.Data.xml
+		packages\Microsoft.Practices.EnterpriseLibrary\Microsoft.Practices.ServiceLocation.dll = packages\Microsoft.Practices.EnterpriseLibrary\Microsoft.Practices.ServiceLocation.dll
+		packages\Microsoft.Practices.EnterpriseLibrary\Microsoft.Practices.ServiceLocation.pdb = packages\Microsoft.Practices.EnterpriseLibrary\Microsoft.Practices.ServiceLocation.pdb
+		packages\Microsoft.Practices.EnterpriseLibrary\Microsoft.Practices.Unity.dll = packages\Microsoft.Practices.EnterpriseLibrary\Microsoft.Practices.Unity.dll
+		packages\Microsoft.Practices.EnterpriseLibrary\Microsoft.Practices.Unity.Interception.dll = packages\Microsoft.Practices.EnterpriseLibrary\Microsoft.Practices.Unity.Interception.dll
+		packages\Microsoft.Practices.EnterpriseLibrary\Microsoft.Practices.Unity.Interception.pdb = packages\Microsoft.Practices.EnterpriseLibrary\Microsoft.Practices.Unity.Interception.pdb
+		packages\Microsoft.Practices.EnterpriseLibrary\Microsoft.Practices.Unity.pdb = packages\Microsoft.Practices.EnterpriseLibrary\Microsoft.Practices.Unity.pdb
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
